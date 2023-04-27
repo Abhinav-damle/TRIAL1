@@ -1,0 +1,490 @@
+,name,duration,ratings,votes,user_review,Type,Episodes,start_year,end_year,genre1,genre2,rank
+0,Hagane no renkinjutsushi,24.0,9.1,176063,433,TV-14,68,2009,2010,Action,Adventure,1
+1,Hunter x Hunter,24.0,9.0,108634,314,TV-14,148,2011,2014,Action,Adventure,2
+14,Shingeki no Kyojin,24.0,9.0,403414,2000,TV-MA,98,2013,2023,Action,Adventure,15
+12,Ginga Eiyuu Densetsu,25.0,9.0,3912,27,TV-MA,110,1988,1997,Action,Drama,13
+8,Death Note: Desu nôto,23.0,9.0,338267,816,TV-14,37,2006,2007,Crime,Drama,9
+19,One Piece: Wan pîsu,24.0,8.9,135882,496,TV-14,1064,1999,2025,Action,Adventure,20
+5,Kaubôi bibappu: Cowboy Bebop,24.0,8.9,125082,344,TV-14,26,1998,1999,Action,Adventure,6
+77,Mirai shônen Konan,24.0,8.8,4556,25,TV-PG,26,1978,1978,Adventure,Comedy,78
+15,Hajime no Ippo: New Challenger,24.0,8.8,2780,2,Not Rated,26,2009,2009,Action,Comedy,16
+55,Dragon Ball Z,24.0,8.8,135570,200,TV-PG,277,1989,1996,Action,Adventure,56
+2,Steins;Gate,24.0,8.8,65568,249,TV-14,26,2011,2015,Comedy,Drama,3
+6,Hajime no ippo,20.0,8.8,7731,27,TV-PG,76,2000,2002,Action,Comedy,7
+9,Monster,24.0,8.7,34524,143,TV-14,75,2004,2005,Crime,Drama,10
+51,Kenpuu Denki Berserk,23.0,8.7,43031,133,TV-MA,25,1997,1998,Action,Adventure,52
+94,Naruto: Shippûden,24.0,8.7,134644,366,TV-PG,502,2007,2017,Action,Adventure,95
+26,Haikyuu!!,24.0,8.7,28304,117,TV-14,89,2014,2020,Comedy,Drama,27
+11,Gintama,25.0,8.7,12542,64,TV-14,375,2005,2021,Action,Comedy,12
+22,Slam Dunk: Suramu danku,22.0,8.7,6264,19,TV-PG,101,1993,1996,Comedy,Drama,23
+4,Code Geass: Hangyaku no Lelouch,24.0,8.7,71721,203,TV-14,54,2006,2008,Action,Drama,5
+3,Clannad: After Story,24.0,8.6,11670,58,TV-MA,25,2008,2009,Comedy,Drama,4
+78,Dragon Ball,24.0,8.6,61531,48,TV-14,153,1995,2003,Action,Adventure,79
+423,Monogatari Series: Second Season,25.0,8.6,2700,7,TV-14,26,2013,2013,Adventure,Comedy,424
+479,Ping Pong the Animation,24.0,8.6,4200,17,TV-14,11,2014,2014,Drama,Sport,480
+29,Samurai chanpurû,24.0,8.6,50974,97,TV-MA,26,2004,2005,Action,Adventure,30
+418,Shigatsu wa kimi no uso,23.0,8.6,32218,230,TV-PG,24,2014,2018,Comedy,Drama,419
+36,Hunter x Hunter,23.0,8.6,8702,26,TV-PG,62,1999,2001,Action,Adventure,37
+54,Shin seiki evangerion,24.0,8.5,74356,298,TV-MA,26,1995,1996,Action,Drama,55
+34,Kôkaku kidôtai: Stand Alone Complex,24.0,8.5,20186,43,TV-MA,52,2002,2005,Action,Crime,35
+291,GTO,24.0,8.5,9900,28,TV-MA,43,1999,2000,Comedy,Drama,292
+48,Nana,21.0,8.5,4556,25,TV-MA,50,2006,2007,Comedy,Drama,49
+46,Hagane no renkinjutsushi,24.0,8.5,72931,128,TV-PG,51,2003,2004,Action,Adventure,47
+57,JoJo no Kimyô na Bôken,24.0,8.5,27497,187,TV-14,194,2012,2025,Action,Adventure,58
+38,Rurôni Kenshin - Meiji kenkaku romantan,24.0,8.5,19750,66,TV-14,95,1996,1998,Action,Adventure,39
+254,Nana,21.0,8.5,4556,25,TV-MA,50,2006,2007,Comedy,Drama,255
+65,Meitantei Conan,25.0,8.5,13866,51,TV-14,1095,1996,2025,Action,Comedy,66
+120,Robotech,30.0,8.5,3785,35,TV-Y7,85,1985,1985,Action,Adventure,121
+32,Yu yu hakusho,24.0,8.5,14312,59,TV-PG,112,1992,1995,Action,Adventure,33
+10,Mushishi,25.0,8.5,13903,34,TV-14,27,2005,2014,Drama,Fantasy,11
+13,GTO,24.0,8.5,9900,28,TV-MA,43,1999,2000,Comedy,Drama,14
+308,Space Cobra,24.0,8.4,808,4,Not Rated,32,1982,1983,Action,Adventure,309
+306,Seinto Seiya,24.0,8.4,10381,29,TV-PG,114,1986,1989,Action,Adventure,307
+323,UFO robo: Gurendaizâ,26.0,8.4,2268,10,Not Rated,74,1975,1977,Action,Romance,324
+59,Berusaiyu no bara,24.0,8.4,2130,14,TV-PG,41,1979,1980,Action,Drama,60
+115,Naruto,24.0,8.4,108995,277,TV-PG,220,2002,2007,Action,Adventure,116
+18,Yojôhan shinwa taikei,23.0,8.4,4490,17,TV-14,11,2010,2010,Comedy,Drama,19
+119,Star Blazers,22.0,8.4,1472,27,Not Rated,77,1979,1984,Action,Adventure,120
+145,Berusaiyu no bara,24.0,8.4,2130,14,TV-PG,41,1979,1980,Action,Drama,146
+35,Mononoke,25.0,8.3,2525,9,TV-MA,12,2007,2007,Fantasy,Horror,36
+7,Tengen toppa gurren lagann,24.0,8.3,19244,52,TV-14,28,2007,2007,Action,Adventure,8
+430,Rainbow: Nishakubou no shichinin,30.0,8.3,2664,12,TV-MA,26,2010,2025,Crime,Drama,431
+144,Usagi doroppu,24.0,8.3,3586,11,TV-PG,15,2011,2012,Comedy,Drama,145
+25,Kuroko no basuke,24.0,8.3,9768,30,TV-14,75,2012,2015,Comedy,Sport,26
+406,Kiseijû: Sei no kakuritsu,22.0,8.3,41335,132,TV-MA,24,2014,2015,Action,Drama,407
+90,Dragon Ball Kai: Doragon bôru kai,24.0,8.3,23384,26,TV-14,167,2009,2015,Action,Adventure,91
+42,Kino no tabi,24.0,8.3,3018,12,TV-PG,14,2003,2003,Adventure,Drama,43
+30,Nodame kantâbire,47.0,8.3,2337,5,Not Rated,11,2006,2006,Comedy,Drama,31
+40,N.H.K ni yôkoso!,24.0,8.3,7234,20,TV-MA,24,2006,2006,Comedy,Drama,41
+39,Beck: Mongolian Chop Squad,25.0,8.3,2525,15,TV-MA,26,2004,2005,Drama,Music,40
+31,Nichijou,24.0,8.3,3148,13,TV-14,27,2011,2011,Comedy,,32
+33,One Outs,24.0,8.3,1718,9,Not Rated,25,2008,2009,Drama,Sport,34
+66,Seirei no moribito,25.0,8.2,2804,10,TV-PG,26,2007,2007,Action,Adventure,67
+400,Sukeban deka,25.0,8.2,66,5,Not Rated,24,1985,1985,Action,Drama,401
+96,Bleach: Burîchi,24.0,8.2,59703,119,TV-14,369,2004,2012,Action,Adventure,97
+85,Azumanga daiô,24.0,8.2,3164,32,TV-PG,26,2002,2002,Comedy,,86
+416,Barakamon,24.0,8.2,3807,11,TV-PG,12,2014,2014,Comedy,Drama,417
+69,Mezon Ikkoku,25.0,8.2,1154,9,TV-14,96,1986,1988,Comedy,Drama,70
+52,Trigun,24.0,8.2,22717,101,TV-14,26,1998,1998,Action,Adventure,53
+307,Gyakkyô burai Kaiji,23.0,8.2,3375,15,TV-14,52,2007,2011,Action,Thriller,308
+267,Hokuto no Ken,25.0,8.2,3311,22,TV-14,152,1984,1988,Action,Adventure,268
+16,Ano hi mita hana no namae o bokutachi wa mada shiranai.,23.0,8.2,14582,72,TV-PG,11,2011,2011,Adventure,Drama,17
+17,Hellsing Ultimate,50.0,8.2,24503,62,Not Rated,10,2006,2012,Action,Fantasy,18
+20,Baccano!,24.0,8.2,12165,28,TV-MA,16,2007,2008,Action,Adventure,21
+21,Psycho-Pass,25.0,8.2,20260,61,TV-MA,41,2012,2025,Action,Crime,22
+243,Ranma ½: Nettô-hen,30.0,8.2,1643,17,TV-PG,144,1989,1992,Action,Comedy,244
+24,Mahô shôjo Madoka magika: Puella Magi Madoka Magica,24.0,8.2,10271,46,TV-14,12,2011,2011,Drama,Fantasy,25
+27,Sakamichi no Apollon,24.0,8.2,3129,18,TV-14,12,2012,2012,Drama,Music,28
+43,Ôran kôkô hosutobu,24.0,8.2,10711,46,TV-14,26,2006,2006,Comedy,Romance,44
+47,Fate/Zero,24.0,8.2,13718,43,TV-MA,31,2011,2012,Action,Adventure,48
+302,Diamond No Ace,24.0,8.2,1250,9,Not Rated,126,2013,2016,Sport,,303
+277,Uchû senkan Yamato,30.0,8.1,639,7,Not Rated,26,1974,1975,Action,Adventure,278
+371,Tantei gakuen Q,23.0,8.1,301,4,Not Rated,45,2003,2004,Adventure,Comedy,372
+63,Kidô Senshi Gundam 00,24.0,8.1,2522,5,TV-PG,50,2007,2009,Action,Drama,64
+70,Purinsesu Chuchu,30.0,8.1,1079,17,TV-14,26,2002,2003,Adventure,Comedy,71
+61,Kaiba,24.0,8.1,1811,6,TV-MA,12,2008,2008,Adventure,Drama,62
+158,Chihayafuru,22.0,8.1,1410,6,TV-14,74,2011,2025,Comedy,Drama,159
+95,Serial Experiments Lain,24.307692307692307,8.1,14942,92,TV-14,13,1998,1998,Drama,Horror,96
+182,Kamisama hajimemashita,23.0,8.1,4283,24,TV-PG,31,2012,2016,Comedy,Fantasy,183
+93,FLCL,25.166666666666668,8.1,18461,114,TV-14,6,2000,2001,Action,Comedy,94
+41,Natsume yûjinchô,24.0,8.1,2221,12,Not Rated,74,2008,2017,Comedy,Drama,42
+125,Shijou Saikyou no Deshi Kenichi,25.0,8.1,2255,13,TV-14,61,2006,2014,Action,Comedy,126
+89,Kidô senshi Z Gundam,30.0,8.1,1383,17,TV-14,50,1985,1986,Action,Drama,90
+44,Planetes,25.0,8.1,3750,25,TV-14,26,2003,2004,Drama,Sci-Fi,45
+313,Doraemon,25.0,8.1,4453,23,TV-PG,2877,1979,2005,Adventure,Comedy,314
+49,Mejaa,25.0,8.1,360,1,Not Rated,157,2004,2012,Sport,,50
+397,Natsume yûjinchô,24.0,8.1,2221,12,Not Rated,74,2008,2017,Comedy,Drama,398
+268,Hokuto no Ken 2,25.0,8.1,868,8,Not Rated,26,1987,1988,Action,Adventure,269
+104,Space Dandy,24.0,8.1,4299,43,TV-14,26,2014,2014,Adventure,Comedy,105
+389,Shinchan,25.0,8.0,5851,21,TV-MA,88,2006,2011,Comedy,,390
+410,Fate/stay night: Unlimited Blade Works,24.0,8.0,8300,27,TV-14,27,2014,2015,Action,Adventure,411
+166,Shaman Kingu,23.0,8.0,6171,22,TV-Y7,78,2001,2005,Action,Adventure,167
+334,Shin kidô senki Gundam W,30.0,8.0,4680,75,TV-PG,49,1995,1996,Action,Adventure,335
+390,Bakuman.,24.0,8.0,2533,9,Not Rated,75,2010,2013,Comedy,Drama,391
+431,Akatsuki no Yona,24.0,8.0,4339,33,TV-14,24,2014,2015,Action,Adventure,432
+106,Môsô dairinin,25.0,8.0,12823,53,TV-MA,13,2004,2004,Drama,Horror,107
+221,Kadokyaputa Sakura,30.0,8.0,5264,44,TV-Y7-FV,70,1998,2000,Action,Adventure,222
+484,Ansatsu kyôshitsu,23.0,8.0,17722,93,TV-14,49,2013,2016,Action,Comedy,485
+466,Golden Boy: Sasurai no o-benkyô yarô,27.5,8.0,6208,21,Not Rated,6,1995,1996,Comedy,,467
+28,Toradora!,24.0,8.0,16761,73,TV-14,25,2008,2009,Comedy,Drama,29
+76,12 kokuki,25.0,8.0,2083,17,Not Rated,45,2002,2003,Adventure,Drama,77
+92,Kureimoa,24.0,8.0,14275,30,TV-MA,26,2007,2007,Action,Adventure,93
+60,Bakemonogatari,24.0,8.0,6033,15,TV-14,15,2009,2010,Action,Comedy,61
+100,Kidô Senshi Gundam,30.0,8.0,2511,20,TV-14,43,1979,1980,Action,Drama,101
+86,Haibane Renmei,25.0,8.0,3869,24,TV-PG,13,2002,2025,Drama,Fantasy,87
+105,Rupan sansei,23.0,7.9,2262,10,TV-PG,23,1971,1972,Action,Adventure,106
+160,Pokémon Origins,25.0,7.9,3095,14,TV-Y7,4,2013,2013,Action,Adventure,161
+336,Outlaw Star,25.0,7.9,3890,34,TV-MA,27,1998,2025,Action,Adventure,337
+483,Death Parade,24.0,7.9,17536,46,TV-MA,12,2015,2015,Drama,Mystery,484
+333,Rittai anime ie naki ko Remi,24.0,7.9,1147,6,Not Rated,51,1977,1978,Adventure,Drama,334
+62,Lovely Complex,24.0,7.9,2944,12,TV-PG,24,2007,2007,Comedy,Romance,63
+67,Black Lagoon,25.0,7.9,16082,46,TV-MA,24,2006,2006,Action,Adventure,68
+64,Kiru ra kiru: KILL la KILL,25.0,7.9,15257,51,TV-14,25,2013,2014,Action,Comedy,65
+304,Gin no saji,22.0,7.9,1302,3,TV-PG,22,2013,2014,Comedy,Drama,305
+56,Higurashi no naku koro ni,24.0,7.9,6015,39,TV-MA,26,2006,2006,Drama,Horror,57
+278,Captain Future,30.0,7.9,1427,9,Not Rated,52,1978,1979,Adventure,Sci-Fi,279
+53,Gankutsu-ô,24.0,7.9,2598,21,TV-14,24,2004,2005,Drama,Mystery,54
+50,Fairy Tail: Fearî teiru,24.0,7.9,25755,132,TV-14,339,2009,2019,Action,Adventure,51
+23,Shin Sekai Yori,25.0,7.9,3397,21,TV-14,25,2012,2013,Action,Adventure,24
+84,Kaichou wa meido-sama!,24.0,7.9,7915,46,TV-14,28,2010,2011,Comedy,Romance,85
+103,Ranma ½,23.0,7.9,5341,39,TV-14,18,1989,1989,Action,Comedy,104
+91,Gangureivu,25.0,7.9,5119,37,TV-14,26,2003,2004,Action,Crime,92
+101,"Ima, soko ni iru boku",25.0,7.9,1832,14,TV-14,13,1999,2000,Action,Adventure,102
+98,Erufen rîto,24.0,7.9,34595,154,TV-MA,14,2004,2004,Action,Drama,99
+421,Noragami,24.0,7.9,16894,38,TV-14,29,2014,2015,Action,Adventure,422
+114,Inuyasha,24.0,7.9,16885,80,TV-14,167,2000,2004,Action,Adventure,115
+427,Yahari ore no seishun rabukome wa machigatteiru.,24.0,7.9,7522,52,TV-14,40,2013,2020,Comedy,Drama,428
+88,Ergo Proxy,25.0,7.9,14991,60,TV-14,23,2006,2006,Action,Adventure,89
+99,Wolf's Rain,23.366666666666667,7.9,7972,40,TV-14,30,2003,2004,Action,Adventure,100
+413,Nanatsu no taizai,24.0,7.9,33980,174,TV-14,100,2014,2021,Action,Adventure,414
+102,Fruits Basket,24.0,7.9,5983,49,TV-PG,26,2001,2001,Comedy,Drama,103
+405,Zankyô no teroru,23.0,7.8,11988,57,TV-14,11,2014,2014,Crime,Drama,406
+130,K-On!,24.0,7.8,4073,18,TV-PG,41,2009,2010,Comedy,Drama,131
+349,Janguru wa itsumo hare nochi Guu,23.0,7.8,298,2,TV-PG,26,2001,2001,Comedy,Fantasy,350
+161,Akagi,25.0,7.8,698,3,Not Rated,26,2005,2006,Sport,Thriller,162
+37,Durarara!!,24.0,7.8,7492,9,TV-14,26,2010,2010,Action,Comedy,38
+133,Hyouka,24.0,7.8,5437,18,TV-14,23,2012,2012,Comedy,Drama,134
+132,Kimi ni todoke,24.0,7.8,4387,18,TV-PG,38,2009,2011,Comedy,Drama,133
+97,Last Exile,24.0,7.8,3740,28,TV-PG,26,2003,2003,Action,Adventure,98
+72,Hachimitsu to kurôbâ,25.0,7.8,1311,4,TV-14,32,2005,2006,Comedy,Drama,73
+428,Danshi kôkôsei no nichijô,24.0,7.8,2626,12,TV-PG,18,2012,2012,Comedy,Drama,429
+407,Akame ga Kill!,24.0,7.8,26004,133,TV-MA,49,2014,2014,Action,Adventure,408
+328,Majingâ Zetto,30.0,7.8,1421,7,Not Rated,92,1972,1974,Action,Animation,329
+71,Kôkyô shihen Eureka Sebun,25.0,7.8,3195,36,TV-MA,50,2005,2006,Adventure,Drama,72
+318,Dokutaa Suranpu Arale-chan,25.0,7.8,552,1,Not Rated,243,1981,1986,Comedy,Fantasy,319
+45,Clannad,30.0,7.8,9796,39,TV-PG,24,2007,2008,Comedy,Drama,46
+265,Magi: The Labyrinth of Magic,25.0,7.8,4337,16,TV-14,50,2012,2014,Action,Adventure,266
+74,Magi: The Labyrinth of Magic,25.0,7.8,4337,16,TV-14,50,2012,2014,Action,Adventure,75
+269,Dennô koiru,25.0,7.8,941,6,TV-14,26,2007,2007,Adventure,Comedy,270
+147,Tenkû no Esukafurône,30.0,7.8,4330,40,TV-14,26,1996,1996,Action,Adventure,148
+127,School Rumble,25.0,7.8,2090,11,TV-PG,56,2004,2010,Comedy,Romance,128
+154,Kaleido Star,23.0,7.8,940,13,TV-PG,51,2003,2004,Comedy,Drama,155
+279,Uchû kaizoku kyaputen Hârokku,24.0,7.8,1244,8,Not Rated,42,1978,1979,Action,Adventure,280
+312,Dejimon Adobenchâ,30.0,7.8,6602,7,TV-Y7-FV,54,1999,2000,Action,Adventure,313
+245,Æon Flux,30.0,7.8,6632,42,TV-14,16,1991,1995,Adventure,Sci-Fi,246
+79,Ôkami to kôshinryô,24.0,7.8,4672,14,TV-14,26,2008,2009,Adventure,Drama,80
+80,Sôru îtâ,24.0,7.8,13526,41,TV-14,51,2008,2009,Action,Adventure,81
+108,Herushingu,23.0,7.8,17087,43,TV-MA,13,2001,2002,Action,Fantasy,109
+107,Basilisk: Kôga ninpô chô,25.0,7.8,4129,15,TV-MA,24,2005,2005,Action,Adventure,108
+220,Fushigi Yûgi,23.0,7.8,1011,30,TV-14,65,1995,2002,Adventure,Drama,221
+395,Kurage hime,22.0,7.8,945,4,TV-14,11,2010,2010,Comedy,Romance,396
+280,Kagaku ninja tai Gatchaman,25.0,7.8,779,11,TV-PG,105,1972,1974,Action,Adventure,281
+143,Fushigi no umi no Nadia,25.0,7.8,1891,17,TV-14,49,1990,2003,Action,Adventure,144
+401,Sukippu bîto!,24.0,7.8,1535,3,TV-PG,25,2008,2009,Comedy,Drama,402
+83,Suzumiya Haruhi no Yûutsu,24.0,7.8,8726,30,TV-14,14,2006,2009,Comedy,Fantasy,84
+112,City Hunter,24.0,7.7,1473,4,TV-14,140,1987,1991,Action,Comedy,113
+116,Kareshi kanojo no jijou,24.0,7.7,1603,17,TV-14,26,1998,1999,Comedy,Drama,117
+303,Yowamushi pedaru,23.0,7.7,909,8,Not Rated,129,2013,2025,Comedy,Drama,304
+58,Darker Than Black: Kuro no keiyakusha,24.0,7.7,12081,27,TV-MA,42,2007,2010,Action,Drama,59
+335,Mahôjin guru guru,25.0,7.7,93,2,Not Rated,18,1994,1995,Comedy,Family,336
+259,Sakurasou no Pet na Kanojo,24.0,7.7,4700,21,TV-14,24,2012,2013,Comedy,Drama,260
+255,Junjou Romantica,24.0,7.7,1778,9,TV-MA,37,2008,2015,Comedy,Drama,256
+164,Bishôjo senshi Sêrâ Mûn,30.0,7.7,6814,122,TV-PG,200,1992,1997,Action,Adventure,165
+338,Furumûn wo sagashite,24.0,7.7,246,4,TV-PG,52,2002,2003,Comedy,Drama,339
+351,Musekinin kanchô Tairâ,24.563796823713375,7.7,465,5,TV-14,26,1993,1996,Adventure,Comedy,352
+352,Keroro gunsô,25.0,7.7,711,8,TV-Y7,356,2004,2011,Comedy,Family,353
+82,Kuroshitsuji,24.0,7.7,8494,32,TV-14,43,2008,2011,Action,Comedy,83
+139,D.Gray-man,30.0,7.7,4353,15,TV-14,104,2006,2008,Action,Adventure,140
+403,Tokyo Ghoul,24.0,7.7,57067,120,TV-MA,12,2014,2014,Action,Drama,404
+404,"No Game, No Life",23.0,7.7,16786,45,TV-14,12,2014,2014,Adventure,Comedy,405
+135,Shigurui,24.0,7.7,2502,18,TV-MA,12,2007,2007,Action,Drama,136
+251,Kidô keisatsu patorebâ,25.0,7.7,675,3,Not Rated,47,1989,1990,Action,Comedy,252
+260,Aku no hana,24.0,7.6,1264,11,TV-MA,13,2013,2013,Drama,Thriller,261
+271,Kemonozume,25.0,7.6,896,2,Not Rated,13,2006,2006,Action,Drama,272
+458,Kikô sôseiki Mospeada,25.0,7.6,257,4,TV-PG,25,1983,1984,Action,Adventure,459
+274,Seikai no monshô,26.0,7.6,513,6,TV-14,13,1999,1999,Action,Drama,275
+275,Terra e...,26.0,7.6,292,1,TV-PG,24,2007,2007,Action,Drama,276
+426,Hanamonogatari,25.0,7.6,1813,7,Not Rated,5,2014,2014,Comedy,Fantasy,427
+425,Nisemonogatari,25.0,7.6,2856,7,TV-MA,11,2012,2012,Comedy,Drama,426
+316,Afro Samurai,26.0,7.6,17321,47,TV-MA,5,2007,2007,Action,Adventure,317
+317,Rôdosu-tô senki,25.0,7.6,2705,22,TV-14,13,1990,1991,Action,Adventure,318
+326,Dejimon Teimâzu,30.0,7.6,2161,16,TV-Y7,51,2001,2002,Action,Adventure,327
+344,Arison to Riria,24.0,7.6,83,1,Not Rated,26,2008,2008,Action,Adventure,345
+417,Gekkan shôjo Nozaki-kun,23.0,7.6,3753,20,TV-PG,18,2014,2014,Comedy,Romance,418
+373,Eyeshield 21,23.0,7.6,679,3,TV-PG,145,2005,2008,Comedy,Drama,374
+392,Sarai-ya goyô,23.0,7.6,583,2,TV-14,12,2010,2025,Drama,History,393
+394,Aku no hana,23.0,7.6,1264,11,TV-MA,13,2013,2013,Drama,Thriller,395
+360,Hyper Police,24.0,7.6,116,4,Not Rated,25,1997,1997,Action,Comedy,361
+244,Samurai 7,25.0,7.6,4247,21,TV-PG,26,2004,2004,Action,Adventure,245
+150,Kimagure orenji rôdo,25.0,7.6,876,6,TV-PG,49,1985,1988,Comedy,Drama,151
+109,Angel Beats!,25.0,7.6,15144,52,TV-14,16,2010,2010,Action,Comedy,110
+148,Tenchi Muyô!,30.0,7.6,2159,41,TV-PG,71,1992,2025,Adventure,Comedy,149
+146,Oniisama e...,25.0,7.6,252,6,Not Rated,39,1991,1992,Drama,Romance,147
+142,Blood+,25.0,7.6,4676,24,TV-MA,50,2005,2006,Action,Adventure,143
+137,Aoi Bungaku Series,22.0,7.6,1197,3,Not Rated,12,2009,2025,Drama,History,138
+129,Full Metal Panic!,24.0,7.6,5690,33,TV-14,52,2002,2006,Action,Adventure,130
+126,High School DxD,23.0,7.6,11750,101,TV-MA,65,2012,2018,Action,Comedy,127
+122,Uchouten Kazoku,24.0,7.6,385,4,Not Rated,25,2013,2025,Comedy,Drama,123
+113,Gôruden taimu,24.0,7.6,4044,23,TV-14,24,2013,2014,Comedy,Drama,114
+155,Log Horizon,25.0,7.6,4443,24,TV-PG,62,2013,2025,Action,Adventure,156
+110,Sakigake!! Cromartie Kôkô,24.41153823898858,7.6,845,9,TV-14,26,2003,2004,Comedy,,111
+121,Shiki,24.0,7.6,3626,26,TV-MA,24,2010,2011,Drama,Horror,122
+204,Kimi ga nozomu eien,25.0,7.6,977,9,TV-14,14,2003,2004,Drama,Romance,205
+75,Ookiku furikabutte,25.0,7.6,283,2,TV-PG,39,2007,2010,Comedy,Drama,76
+168,XXXHOLiC,25.0,7.6,1958,9,TV-PG,40,2006,2011,Comedy,Drama,169
+169,Phantom: Requiem for the Phantom,25.0,7.6,1819,13,TV-MA,26,2009,2009,Action,Crime,170
+165,Magic Knight Rayearth,20.0,7.6,957,15,TV-PG,49,1994,1995,Action,Adventure,166
+386,Kidô Senkan Nadesico,25.0,7.5,500,9,TV-PG,26,1996,1997,Action,Comedy,387
+272,Noein: Mô hitori no kimi he,25.0,7.5,1001,14,TV-PG,24,2005,2006,Action,Adventure,273
+309,Kurenai Sanshiro,24.0,7.5,109,0,Not Rated,26,1969,1969,Action,Adventure,310
+310,Street Fighter II: V,22.0,7.5,2368,23,TV-Y7,29,1995,1995,Action,Adventure,311
+202,Anazâ,23.076923076923077,7.5,16261,52,TV-MA,13,2012,2012,Drama,Fantasy,203
+246,The Big O,30.0,7.5,2185,15,TV-PG,26,1999,2003,Action,Adventure,247
+247,R.O.D the TV,25.0,7.5,487,7,TV-PG,26,2003,2004,Action,Adventure,248
+157,Beelzebub,25.0,7.5,2148,11,TV-MA,60,2011,2012,Action,Comedy,158
+248,Heppoko jikken animêshon excel saga,25.0,7.5,1394,24,TV-14,26,1999,2001,Comedy,Drama,249
+327,Gurêto Majingâ,30.0,7.5,457,2,Not Rated,56,1974,1975,Sci-Fi,Action,328
+376,Arupusu no shôjo Haiji,24.0,7.5,5630,18,Not Rated,52,1974,1974,Adventure,Comedy,377
+368,Urusei yatsura,23.0,7.5,1143,6,TV-PG,195,1981,1986,Action,Adventure,369
+241,Poketto monsutâ,24.0,7.5,44660,237,TV-Y7,1250,1997,2023,Action,Adventure,242
+200,Ef: A Tale of Melodies.,24.0,7.5,473,3,TV-MA,12,2008,2008,Drama,Mystery,201
+167,Zetsuen No Tempest,25.0,7.5,1501,9,Not Rated,24,2012,2013,Action,Fantasy,168
+384,To aru kagaku no rêrugan,24.0,7.5,1675,11,TV-14,76,2009,2025,Action,Comedy,385
+348,Genshiken,25.0,7.5,744,4,PG-13,27,2004,2007,Comedy,,349
+73,Mirai nikki,25.0,7.5,18395,79,TV-MA,27,2011,2013,Action,Drama,74
+68,Kanon,22.0,7.5,1583,10,TV-14,24,2006,2007,Comedy,Drama,69
+87,Sword Art Online,24.0,7.5,47989,200,TV-14,100,2012,2025,Action,Adventure,88
+81,Ef: A Tale of Melodies.,24.0,7.5,473,3,TV-MA,12,2008,2008,Drama,Mystery,82
+190,Hataraku Maou-sama!,24.0,7.5,7801,30,TV-14,26,2013,2025,Action,Comedy,191
+437,Ao Haru Ride,24.641206162373408,7.5,5488,18,Not Rated,14,2014,2014,Comedy,Drama,438
+461,Ekkusu,24.0,7.5,1745,14,Not Rated,24,2001,2002,Action,Drama,462
+216,Denei Shoujo Ai,24.857142857142858,7.5,706,8,Not Rated,7,1992,1992,Comedy,Drama,217
+409,World Trigger,24.0,7.5,925,12,TV-14,99,2014,2025,Action,Sci-Fi,410
+138,Higashi no Eden,23.0,7.5,3877,11,TV-MA,11,2009,2009,Action,Comedy,139
+141,Sureiyâzu,25.0,7.5,2304,30,TV-PG,114,1995,2009,Action,Adventure,142
+393,Michiko to Hatchin,23.0,7.5,1090,12,TV-MA,22,2008,2025,Action,Adventure,394
+297,Golgo 13,25.0,7.4,487,1,TV-MA,50,2008,2009,Action,Adventure,298
+288,Nurarihyon no mago,24.49981517386976,7.4,787,4,TV-14,54,2010,2014,Action,Comedy,289
+319,Saber Marionette J,30.0,7.4,342,7,Not Rated,25,1996,1997,Action,Romance,320
+324,Astro Boy,30.0,7.4,971,18,TV-Y7,106,1963,1965,Action,Adventure,325
+477,Chuunibyou demo koi ga shitai!,25.0,7.4,4370,29,TV-PG,26,2012,2025,Comedy,Drama,478
+331,Yawara!,25.0,7.4,122,2,Not Rated,37,1989,1992,Action,Comedy,332
+485,Owari No Seraph,24.0,7.4,5923,37,TV-14,25,2015,2015,Action,Adventure,486
+388,Andersen monogatari,25.0,7.4,29,0,Not Rated,0,1971,1971,Fantasy,,389
+346,Fantastic Children,24.0,7.4,225,2,Not Rated,26,2004,2005,Adventure,Fantasy,347
+163,Jigoku shôjo,22.0,7.4,1859,11,TV-MA,27,2005,2006,Drama,Fantasy,164
+159,Nagi no Asukara,23.0,7.4,1276,10,TV-PG,26,2013,2014,Drama,Fantasy,160
+111,Ao no ekusoshisuto,30.0,7.4,13953,32,TV-14,26,2011,2011,Action,Drama,112
+424,Nekomonogatari (Kuro),24.0,7.4,2351,5,TV-MA,4,2012,2012,Comedy,Drama,425
+124,Free!,24.0,7.4,3317,9,TV-PG,42,2013,2025,Comedy,Drama,125
+153,Yamato nadeshiko shichihenge,25.0,7.4,1093,6,TV-14,25,2006,2007,Comedy,Drama,154
+128,Raki suta: Lucky Star,25.0,7.4,2312,15,TV-PG,25,2007,2008,Comedy,Family,129
+379,Hyakujû-ô Goraion,23.0,7.4,182,4,TV-14,52,1981,1982,Action,Adventure,380
+134,Ghost Hunt,25.0,7.4,1543,14,TV-14,25,2006,2025,Comedy,Drama,135
+140,Ayakashi,25.0,7.4,613,7,Not Rated,11,2006,2025,Fantasy,Horror,141
+281,Saibôgu 009,24.456218112090358,7.4,506,4,TV-14,51,2001,2002,Action,Adventure,282
+207,Gettobakkâzu dakkanya,24.0,7.4,1027,9,TV-PG,49,2002,2003,Action,Adventure,208
+242,Tenisu no ôjisama,22.0,7.4,855,7,TV-PG,178,2001,2005,Action,Comedy,243
+219,Sukurappudo purinsesu,23.0,7.4,762,5,TV-14,24,2003,2003,Adventure,Comedy,220
+201,Koi kaze,25.0,7.4,448,6,Not Rated,13,2004,2004,Drama,Romance,202
+193,Suisei no Gargantia,24.0,7.4,1727,11,TV-14,15,2013,2025,Adventure,Drama,194
+184,Itazura na Kiss,24.0,7.3,1671,9,Not Rated,25,2008,2008,Comedy,Drama,185
+152,Tsubasa kuronikuru,25.0,7.3,1320,6,TV-PG,52,2005,2010,Action,Adventure,153
+366,Banbû brêdo,24.0,7.3,302,1,TV-PG,26,2007,2008,Comedy,Drama,367
+363,Ga-rei: Zero,24.0,7.3,733,6,TV-MA,12,2008,2025,Action,Drama,364
+345,Takahashi Rumiko gekijô: Ningyo no mori,22.0,7.3,170,5,Not Rated,13,2003,2025,Adventure,Drama,346
+341,Meiken Jolie,24.0,7.3,914,8,TV-G,52,1981,1982,Adventure,,342
+191,Working!!,24.0,7.3,660,3,Not Rated,40,2010,2015,Comedy,Drama,192
+239,Yu-Gi-Oh!,24.0,7.3,22066,70,TV-Y,224,2000,2006,Action,Adventure,240
+339,Dâti pea,25.0,7.3,225,3,TV-14,26,1985,1988,Action,Adventure,340
+315,Boogiepop Phantom: Boogiepop wa Warawanai,24.0,7.3,996,7,TV-14,12,2000,2000,Drama,Horror,316
+337,Baburugamu kuraishisu,25.0,7.3,1593,20,TV-MA,8,1987,1991,Action,Fantasy,338
+197,Tokyo Ravens,24.0,7.3,1317,2,TV-14,24,2013,2014,Action,Comedy,198
+330,Haha wo tazunete sanzenri,25.0,7.3,944,4,TV-MA,52,1976,1976,Adventure,Drama,331
+329,Mahô no yousei Persia,24.0,7.3,57,1,Not Rated,48,1984,1985,Family,Comedy,330
+171,Sekirei,23.0,7.3,2566,16,TV-MA,26,2008,2010,Action,Comedy,172
+322,Dragon League,30.0,7.3,29,1,Not Rated,6,1993,1994,Adventure,Fantasy,323
+340,Shin Majingâ shôgeki! Z hen,23.0,7.3,256,2,Not Rated,1,2009,2025,Sci-Fi,,341
+172,Chobits,23.0,7.3,4550,24,TV-14,27,2002,2003,Comedy,Drama,173
+434,Gugure! Kokkuri-san,24.0,7.3,265,4,TV-14,12,2014,2014,Comedy,Fantasy,435
+222,Abenobashi mahô shôtengai,24.0,7.3,684,7,TV-14,13,2002,2025,Action,Adventure,223
+487,Purasutikku Memorîzu,24.0,7.3,2472,13,TV-14,13,2015,2015,Drama,Romance,488
+229,Petto shoppu obu horazu,25.0,7.3,1079,6,TV-14,4,1999,1999,Fantasy,Horror,230
+206,Gosick,24.0,7.3,1376,13,TV-MA,24,2011,2011,Comedy,Drama,207
+447,Shingeki no Bahamut: Genesis,24.0,7.3,1577,2,TV-14,13,2014,2014,Action,Adventure,448
+451,Majikku Kaito 1412,25.0,7.3,482,2,Not Rated,24,2014,2015,Adventure,Comedy,452
+292,IGPX: Immortal Grand Prix,24.0,7.3,276,3,TV-Y7,26,2005,2006,Action,Sci-Fi,293
+441,Soredemo sekai wa utsukushii,23.0,7.3,935,13,TV-14,12,2014,2025,Adventure,Fantasy,442
+223,Gunslinger Girl,24.0,7.3,2259,23,TV-14,13,2003,2004,Action,Drama,224
+454,Magic Kaito,25.0,7.3,341,3,Not Rated,12,2010,2012,Adventure,Comedy,455
+117,Vanpaia naito,24.0,7.3,5491,23,TV-14,26,2008,2008,Action,Drama,118
+396,Watashi ga motenai no wa dô kangaetemo omaera ga warui!,25.0,7.2,2251,11,TV-14,13,2013,2013,Comedy,Drama,397
+471,Shakugan no Shana II,24.0,7.2,558,3,TV-14,28,2007,2008,Action,Adventure,472
+473,Seto no hanayome,24.0,7.2,818,5,TV-MA,26,2007,2007,Comedy,Fantasy,474
+480,Bokura wa minna kawaisou,24.0,7.2,711,7,Not Rated,13,2014,2015,Comedy,Drama,481
+262,Zatch Bell!,25.0,7.2,1082,16,TV-Y7,153,2003,2025,Action,Adventure,263
+162,Gantz,22.0,7.2,8193,63,TV-MA,26,2004,2004,Action,Drama,163
+342,Aria: The Animation,24.0,7.2,415,3,TV-PG,57,2005,2025,Comedy,Drama,343
+391,Toriko,24.0,7.2,570,2,TV-PG,149,2009,2014,Action,Adventure,392
+258,Tonari no kaibutsu-kun,24.0,7.2,4453,16,Not Rated,13,2012,2012,Comedy,Romance,259
+224,RahXephon,25.0,7.2,1718,18,TV-14,26,2002,2002,Action,Drama,225
+123,Gakuen mokushiroku: HIGHSCHOOL OF THE DEAD,24.0,7.2,14089,56,TV-MA,12,2010,2010,Action,Drama,124
+226,Witch Hunter Robin,25.0,7.2,2115,20,TV-PG,26,2002,2003,Action,Adventure,227
+378,Yattâman,24.0,7.2,210,1,Not Rated,108,1977,1979,Adventure,Comedy,379
+325,Mahha GoGoGo,30.0,7.2,3116,28,TV-Y7,52,1967,1968,Action,Adventure,326
+151,Aa Megamisama,25.0,7.2,1221,8,TV-PG,27,2005,2005,Comedy,Drama,152
+488,Kekkai Sensen,24.0,7.2,2346,8,TV-14,27,2015,2017,Action,Adventure,489
+176,Sora no otoshimono,20.923076923076923,7.2,1947,12,TV-MA,26,2009,2010,Action,Comedy,177
+194,Watashi ga motenai no wa dô kangaetemo omaera ga warui!,25.0,7.2,2251,11,TV-14,13,2013,2013,Comedy,Drama,195
+178,Kaze no stigma,24.0,7.2,1775,10,TV-14,24,2007,2007,Action,Comedy,179
+321,Saber Marionette J Again,50.0,7.2,113,3,Not Rated,6,1997,1998,Action,Comedy,322
+295,Noir,25.0,7.2,1999,26,TV-14,26,2001,2002,Action,Crime,296
+298,Buru Jenda,23.0,7.2,1264,12,TV-MA,26,1999,2000,Action,Sci-Fi,299
+185,Nisekoi,25.0,7.2,3761,18,TV-PG,36,2014,2016,Comedy,Romance,186
+286,Sunabôzu,24.166666666666668,7.2,1386,8,TV-MA,24,2004,2005,Action,Comedy,287
+273,Seikai no senki,25.0,7.2,407,2,TV-PG,25,2000,2005,Action,Romance,274
+180,Baka to Test to Shoukanjuu,25.0,7.2,1404,4,TV-14,28,2010,2011,Comedy,Fantasy,181
+189,Kyoukai no kanata,24.0,7.2,2638,11,TV-PG,18,2013,2025,Action,Comedy,190
+296,Madlax,25.0,7.2,338,5,TV-14,26,2004,2025,Action,Drama,297
+381,Mahô shôjo Lalabelle,24.0,7.1,43,1,Not Rated,49,1980,1981,Family,Comedy,382
+377,Chikyû shôjo Arjuna,25.0,7.1,486,17,Not Rated,13,2001,2001,Drama,Fantasy,378
+203,Strawberry Panic,25.0,7.1,731,7,TV-PG,26,2006,2006,Drama,Romance,204
+299,Chrono Crusade,23.0,7.1,1601,12,TV-14,27,2003,2004,Action,Adventure,300
+374,Mamarêdo bôi,30.0,7.1,483,8,Not Rated,76,1994,2005,Comedy,Drama,375
+181,Munemoshune no musume tachi,45.0,7.1,2064,13,TV-MA,6,2008,2008,Action,Drama,182
+238,B-gata H-kei,25.0,7.1,1556,8,TV-MA,12,2010,2010,Comedy,Drama,239
+266,PandoraHearts,24.0,7.1,795,6,Not Rated,25,2009,2009,Action,Fantasy,267
+233,Speed Grapher,25.0,7.1,995,7,TV-MA,24,2005,2005,Action,Adventure,234
+357,Air Gear,25.0,7.1,1325,5,TV-MA,26,2006,2025,Action,Comedy,358
+414,Aldnoah.Zero,25.0,7.1,2328,17,TV-14,24,2014,2025,Action,Adventure,415
+294,Hiroikku eiji,24.0,7.1,553,3,TV-PG,26,2007,2007,Action,Adventure,295
+422,Mahouka koukou no rettousei,22.0,7.1,3703,18,TV-14,39,2014,2025,Action,Drama,423
+443,Seitokai yakuindomo,24.6737765518378,7.1,671,3,Not Rated,44,2010,2025,Comedy,Drama,444
+282,Bobobo-bo Bo-bobo,26.0,7.1,928,16,TV-Y7,76,2003,2005,Action,Adventure,283
+459,Trinity Blood,25.0,7.1,2809,20,TV-MA,24,2005,2005,Action,Drama,460
+460,Ayashi no Ceres,21.0,7.1,492,16,TV-MA,24,2000,2000,Adventure,Comedy,461
+472,Shakugan no Shana III: Final,30.0,7.1,348,1,TV-14,24,2011,2012,Action,,473
+359,Shikabane hime kuro,24.0,7.1,288,2,TV-MA,13,2009,2009,Action,Drama,360
+131,Deadman Wonderland,24.0,7.1,11197,38,TV-MA,13,2011,2011,Action,Drama,132
+256,Gravitation,22.0,7.1,940,20,TV-PG,13,1999,2001,Comedy,Drama,257
+170,Btooom!,25.0,7.1,4361,19,TV-MA,12,2012,2012,Action,Drama,171
+452,Grisaia no Kajitsu,25.0,7.0,1038,4,TV-MA,13,2014,2014,Drama,Romance,453
+250,Ai yori aoshi,25.0,7.0,512,9,TV-14,36,2002,2025,Comedy,Drama,251
+276,Mugen no rivaiasu,23.0,7.0,262,3,TV-PG,26,1999,2000,Adventure,Drama,277
+320,Saber Marionette J to X,30.0,7.0,163,3,Not Rated,26,1998,1999,Action,Animation,321
+195,Blood Lad,24.0,7.0,2202,10,TV-14,11,2013,2013,Action,Comedy,196
+217,Zero no tsukaima,24.0,7.0,2252,18,TV-14,13,2006,2006,Action,Adventure,218
+232,Eru kazado,25.0,7.0,378,10,Not Rated,24,2006,2025,Action,Adventure,233
+136,Giruti kuraun: Guilty Crown,23.0,7.0,5327,27,TV-14,24,2011,2012,Action,Romance,137
+261,Mondaiji-tachi ga isekai kara kuru sô desu yo?,24.0,7.0,977,6,TV-14,11,2013,2013,Action,Comedy,262
+214,Air,24.0,7.0,1457,10,TV-14,15,2005,2005,Drama,Fantasy,215
+415,Madan no Ou to Vanadis,25.0,7.0,1336,7,TV-MA,13,2014,2014,Adventure,Fantasy,416
+227,Witchblade,25.0,7.0,1515,15,TV-MA,24,2006,2006,Action,Adventure,228
+293,Casshern Sins,24.0,7.0,894,6,TV-MA,24,2008,2025,Action,Adventure,294
+225,Vandread,25.0,7.0,892,12,TV-14,26,2000,2001,Action,Animation,226
+174,To Love-Ru - Darkness,25.0,7.0,990,6,TV-14,36,2012,2017,Comedy,Drama,175
+285,Black Cat,25.0,7.0,1142,6,TV-PG,25,2005,2006,Action,Crime,286
+412,Amagi Brilliant Park,24.0,7.0,1232,4,TV-14,14,2014,2015,Comedy,Fantasy,413
+179,Ookamisan to shichinin no nakamatachi,24.0,7.0,476,4,TV-14,12,2010,2025,Comedy,Fantasy,180
+375,D.N. Angel,30.0,7.0,902,12,TV-PG,26,2003,2003,Adventure,Comedy,376
+353,Sakura Wars,24.599714608628947,7.0,108,1,TV-Y7-FV,29,2000,2000,Action,Adventure,354
+481,Isshuukan Friends,23.0,7.0,534,4,TV-14,24,2014,2025,Comedy,Drama,482
+186,Boku wa tomodachi ga sukunai,25.0,7.0,2494,9,TV-MA,26,2011,2025,Comedy,Drama,187
+252,Devil May Cry: Debiru mei kurai,24.0,7.0,5346,17,TV-MA,12,2007,2007,Action,Fantasy,253
+369,Kinnikuman,23.0,7.0,176,0,Not Rated,86,1983,1986,Action,Adventure,370
+469,Rozario to banpaia,25.0,6.9,3362,13,TV-14,26,2008,2008,Comedy,Fantasy,470
+175,Rabu Hina,21.76,6.9,2297,39,TV-14,25,2000,2001,Comedy,Drama,176
+301,Rozen Maiden,24.0,6.9,133,1,Not Rated,13,2013,2025,Comedy,Drama,302
+253,Jûbê ninpûchô: Ryûhôgyoku-hen,30.0,6.9,1736,15,TV-MA,13,2003,2003,Action,Adventure,254
+448,Ushinawareta Mirai wo Motomete,23.0,6.9,83,2,TV-14,13,2014,2025,Drama,Mystery,449
+228,Black Blood Brothers,25.0,6.9,1236,5,TV-14,12,2006,2025,Action,Comedy,229
+187,Date a Live,25.0,6.9,3508,13,TV-14,48,2013,2025,Action,Comedy,188
+474,Hagure Yusha no Aestetica,24.0,6.9,1844,9,TV-MA,12,2012,2012,Action,Fantasy,475
+362,Shikabane hime aka,24.0,6.9,447,5,TV-MA,13,2008,2008,Action,Adventure,363
+453,Donten ni warau,25.0,6.9,266,3,Not Rated,12,2014,2025,Action,Drama,454
+419,Hitsugi no Chaika,24.0,6.9,680,6,TV-14,23,2014,2025,Adventure,Comedy,420
+420,Black Bullet,25.0,6.9,3034,17,TV-MA,13,2014,2014,Action,Mystery,421
+156,Kore wa Zombie desu ka?,25.0,6.9,1825,6,TV-MA,25,2011,2012,Action,Comedy,157
+440,Ookami shoujo to kuro ouji,24.0,6.9,2736,14,TV-14,13,2014,2025,Comedy,Romance,441
+192,Strike the Blood,24.0,6.9,1750,15,Not Rated,61,2013,2025,Action,Comedy,193
+355,Bannô bunka nekomusume,25.0,6.9,210,6,TV-PG,6,1992,1992,Short,Comedy,356
+311,Janguru taitei,24.0,6.9,1048,16,TV-G,52,1965,1967,Adventure,Family,312
+173,Onegai Teacher,25.0,6.9,1218,26,TV-PG,14,2002,2002,Comedy,Romance,174
+385,Blue Seed,25.0,6.9,307,5,TV-14,26,1994,1995,Action,Adventure,386
+387,Lost Universe,23.0,6.9,196,4,Not Rated,26,1998,1998,Adventure,Comedy,388
+343,Saishû heiki kanojo,25.0,6.9,709,12,TV-MA,13,2002,2002,Drama,Romance,344
+300,Rozen Maiden,24.0,6.9,717,5,TV-14,26,2004,2006,Adventure,Comedy,301
+208,Scryed,24.192307692307693,6.9,1145,8,TV-PG,26,2001,2001,Action,Adventure,209
+264,To aru majutsu no indekkusu,23.0,6.8,2093,8,TV-14,74,2008,2019,Action,Comedy,265
+402,Pîchi gâru,25.0,6.8,454,5,TV-14,25,2005,2005,Drama,Romance,403
+287,Busô renkin,22.307692307692307,6.8,566,2,TV-14,26,2006,2007,Action,Adventure,288
+205,Shuffle!,24.0,6.8,824,4,TV-MA,24,2005,2006,Comedy,Drama,206
+257,Loveless,24.0,6.8,775,6,Not Rated,12,2005,2025,Drama,Romance,258
+284,Rave,24.0,6.8,326,2,TV-Y7,51,2001,2002,Action,Adventure,285
+263,Tenkai Knights,30.0,6.8,104,3,TV-Y7-FV,52,2013,2025,Action,Sci-Fi,264
+240,Dragon Ball GT: Doragon bôru jîtî,24.0,6.8,27536,64,TV-PG,65,1996,1997,Action,Adventure,241
+372,Bokusatsu tenshi Dokuro-chan,23.0,6.8,839,4,Not Rated,6,2005,2025,Comedy,Fantasy,373
+149,Kyûteî Hanî,25.0,6.8,177,3,TV-14,25,1973,1974,Action,Adventure,150
+464,Freezing,24.0,6.8,1668,10,TV-MA,18,2011,2011,Action,Drama,465
+198,Karneval,24.0,6.8,374,2,TV-14,13,2013,2025,Fantasy,Mystery,199
+237,Campione!,24.0,6.8,1357,4,TV-MA,13,2012,2025,Action,Adventure,238
+465,Mahoromatic,24.0,6.8,369,6,TV-MA,26,2001,2003,Action,Comedy,466
+444,Amagami SS,24.0,6.8,509,7,TV-PG,26,2010,2011,Drama,Romance,445
+314,.hack//SIGN,25.0,6.8,1362,18,TV-14,26,2002,2003,Action,Adventure,315
+332,Kidô senshi Gundam ZZ,30.0,6.8,637,8,TV-Y7,47,1986,1987,Action,Comedy,333
+231,Tenjô tenge,23.0,6.8,1284,8,TV-14,26,2004,2004,Action,Comedy,232
+467,Kidou tenshi enjerikku reiyâ,25.0,6.8,328,4,TV-PG,26,2001,2001,Action,Comedy,468
+398,Danganronpa: Kibô no gakuen to zetsubô no kôkôsei - The animation,25.0,6.8,2826,23,TV-14,13,2013,2013,Action,Crime,399
+432,Garo: Honoo no kokuin,24.0,6.7,321,1,TV-MA,25,2014,2015,Action,Adventure,433
+212,Kôtetsu tenshi Kurumi,24.436919707779964,6.7,187,3,TV-MA,24,1999,2000,Adventure,Comedy,213
+215,Hakushaku to yôsei,24.0,6.7,308,2,TV-14,13,2008,2008,Comedy,Drama,216
+438,Gokukoku no Brynhildr,22.0,6.7,1026,6,TV-MA,14,2014,2014,Action,Drama,439
+457,Chôjikû kidan Sazan Kurosu,25.0,6.7,154,5,TV-PG,23,1984,1984,Sci-Fi,,458
+463,Kuînzu bureido: Gyokuza o tsugu mono,24.0,6.7,338,1,TV-MA,12,2009,2009,Action,Adventure,464
+356,Kasimasi: Girl Meets Girl,24.0,6.7,236,2,Not Rated,13,2006,2006,Comedy,Fantasy,357
+364,Tales of the Abyss,24.0,6.7,208,4,Not Rated,26,2008,2009,Adventure,Drama,365
+411,Trinity Seven: 7-nin no Masho Tsukai,24.0,6.7,2525,12,TV-14,13,2014,2015,Action,Comedy,412
+270,Gilgamesh,25.0,6.7,414,5,TV-14,26,2003,2004,Drama,Sci-Fi,271
+183,Tsukuyomi: Moon Phase,24.0,6.7,269,2,TV-PG,26,2004,2006,Action,Comedy,184
+289,Mugen no jûnin,24.0,6.7,675,5,TV-MA,13,2008,2008,Action,Adventure,290
+367,Komikku pâtî,23.0,6.7,86,1,Not Rated,13,2001,2001,Comedy,Drama,368
+380,Bakuretsu hunters,20.0,6.6,161,7,Not Rated,26,1995,1996,Adventure,Comedy,381
+234,Infinite Stratos,24.0,6.6,2006,8,TV-14,27,2011,2016,Action,Comedy,235
+177,Ichiban ushiro no daimaou,23.0,6.6,2499,7,TV-MA,12,2010,2010,Action,Comedy,178
+350,Yume de aetara,24.527952340399676,6.6,57,1,Not Rated,16,1998,1998,Comedy,Drama,351
+249,Galaxy Angel,25.0,6.6,127,1,TV-14,142,2000,2005,Comedy,Sci-Fi,250
+290,Kami sama no memo chô,30.0,6.6,272,2,TV-MA,12,2011,2011,Drama,Mystery,291
+435,Denki-Gai no Honya-san,24.0,6.6,139,3,Not Rated,12,2014,2014,Comedy,,436
+470,Dansu in za vanpaia bando,25.0,6.5,832,6,TV-MA,13,2010,2010,Action,Drama,471
+399,Flag,25.0,6.5,132,3,Not Rated,14,2006,2025,Action,Sci-Fi,400
+218,Girls Bravo,25.0,6.5,957,5,TV-MA,24,2004,2005,Comedy,Fantasy,219
+118,The Idolm@ster,30.0,6.5,207,0,Not Rated,25,2011,2011,Drama,Music,119
+361,El Hazard: Wanderers,25.0,6.5,154,2,Not Rated,26,1995,1996,Adventure,Animation,362
+482,Mekakucity Actors,25.0,6.5,491,7,Not Rated,12,2014,2025,Action,Comedy,483
+230,Bakuretsu tenshi,24.0,6.5,705,12,TV-14,24,2004,2004,Action,Comedy,231
+442,Seirei Tsukai no Blade Dance,23.0,6.5,507,4,TV-14,12,2014,2014,Action,Comedy,443
+478,Seiken no burakkusumisu,24.0,6.5,479,3,TV-MA,12,2009,2025,Adventure,Drama,479
+347,Uta no prince-sama - maji love 1000%,24.0,6.5,364,4,TV-14,13,2011,2025,Comedy,Drama,348
+305,Kamisama no inai nichiyôbi,22.0,6.4,289,4,TV-MA,13,2013,2025,Fantasy,Mystery,306
+365,Coyote Ragtime Show,24.0,6.4,195,4,TV-14,12,2006,2006,Action,Adventure,366
+211,Maburaho,25.0,6.4,277,5,TV-14,24,2003,2004,Comedy,Drama,212
+468,Onegai Twins,30.0,6.4,589,4,TV-14,13,2003,2004,Comedy,Drama,469
+209,Gasaraki,25.16,6.4,291,5,Not Rated,25,1998,1999,Action,Adventure,210
+433,Inou-Battle wa Nichijou-kei no Naka de,24.0,6.4,508,4,TV-14,12,2014,2014,Action,Comedy,434
+436,"Ore, Twintails ni Narimasu",25.0,6.4,153,1,TV-14,12,2014,2014,Action,Comedy,437
+429,Tokyo ESP,25.0,6.4,291,3,TV-MA,12,2014,2025,Action,Comedy,430
+236,Popotan,24.0,6.4,131,1,TV-MA,12,2003,2025,Comedy,Drama,237
+456,Sora No Method,25.0,6.4,74,1,TV-PG,15,2014,2025,Drama,Fantasy,457
+358,Toraburu,24.0,6.4,1439,10,TV-14,44,2008,2010,Action,Comedy,359
+455,Orenchi no Furo Jijou,25.0,6.4,221,2,Not Rated,11,2014,2014,Comedy,Fantasy,456
+445,Corpse Party: Tortured Souls,29.0,6.4,2074,18,TV-MA,4,2013,2013,Horror,Mystery,446
+408,Terra Formars,24.0,6.4,1212,10,TV-14,27,2014,2016,Action,Horror,409
+450,Ore no imouto ga konna ni kawaii wake ga nai,25.0,6.4,1585,4,TV-14,32,2010,2013,Comedy,Drama,451
+283,Buru doragon,26.0,6.3,363,1,Not Rated,51,2007,2008,Action,Adventure,284
+383,Ô dorobô Jing,25.0,6.3,169,2,Not Rated,13,2002,2025,Action,Adventure,384
+210,Sakura Tsûshin,25.0,6.3,169,3,Not Rated,12,1997,1997,Drama,Romance,211
+476,Yosuga no sora,25.0,6.2,1415,19,16+,12,2010,2025,Drama,Romance,477
+196,Nobunaga za fûru,24.0,6.2,116,2,TV-14,24,2014,2025,Action,Fantasy,197
+475,"Dakara Boku wa, H ga Dekinai",25.0,6.2,987,2,TV-MA,13,2012,2025,Comedy,Fantasy,476
+354,Kenpufâ,24.0,6.1,407,6,TV-14,12,2009,2009,Action,Comedy,355
+449,Selector Infected WIXOSS,23.0,6.1,170,2,TV-14,24,2014,2025,Fantasy,Thriller,450
+213,Negima!?,30.0,6.1,274,1,TV-MA,28,2006,2008,Comedy,Drama,214
+446,Shirogane no Ishi: Argevollen,23.0,6.1,73,0,TV-14,24,2014,2025,Action,Sci-Fi,447
+370,H2O: Footprints in the Sand,23.0,6.1,147,2,Not Rated,12,2008,2008,Comedy,Drama,371
+188,Sukûru deizu,25.0,6.0,2660,29,TV-14,12,2007,2007,Drama,Romance,189
+199,Kiss x sis,24.0,6.0,2150,9,TV-MA,12,2010,2010,Comedy,Drama,200
+486,Ninja Slayer,24.75113647976632,6.0,88,1,TV-14,26,2015,2025,Action,Fantasy,487
+462,Ikki tôsen,24.709965721213187,5.9,1223,15,TV-MA,71,2003,2025,Action,Adventure,463
+382,Najika dengeki sakusen,25.0,5.9,179,8,TV-MA,12,2001,2025,Comedy,Crime,383
+235,Seikon no Qwaser,24.0,5.5,402,7,TV-MA,25,2010,2011,Action,Comedy,236
+439,Glasslip,25.0,5.0,190,2,TV-14,13,2014,2025,Drama,Romance,440
