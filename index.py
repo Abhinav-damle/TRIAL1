@@ -9,7 +9,7 @@ from app import app
 # import all pages in the app
 from apps import multipage1, genre, home2
 import dash
-
+server =app.server 
 navbar = dbc.Navbar(
             dbc.Container(
                 [
